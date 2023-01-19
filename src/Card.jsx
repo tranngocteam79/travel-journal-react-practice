@@ -2,10 +2,10 @@ import React from "react";
 export default function Card({ item: props }) {
   return (
     <section className="card-container">
-      <img className="card__img" src={`/src/assets/${props.img}`} />
+      <img className="card__img" src={`/image/${props.img}`} />
       <div className="card__info">
         <div className="card__location">
-          <img src="src/assets/pointer.png" />
+          <img src="/image/pointer.png" />
           <span>{props.country}</span>
           <a href={props.mapUrl}>View on Google Maps</a>
         </div>
