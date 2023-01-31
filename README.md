@@ -2,6 +2,9 @@
 
 A practice project using React Props.
 
+Credit: [React Course by Scrimba](https://scrimba.com/learn/learnreact)
+
+
 <img src="/public/figma.png" width="300px"/>
 
 ## Figma file
